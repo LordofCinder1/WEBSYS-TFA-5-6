@@ -8,7 +8,7 @@ This project is a database-backed upgrade of the POS application, transitioning 
 ## 📸 Application Screenshots
 
 ### 1. About Page
-![About Page](screenshots/about.png)
+![About Page](tfa56/screenshots/about.png)
 
 ### 2. Customer Accounts Page
 ![Customer Accounts](screenshots/customers.png)
