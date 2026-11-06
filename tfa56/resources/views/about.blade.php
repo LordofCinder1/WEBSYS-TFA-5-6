@@ -62,7 +62,7 @@
         <a href="/customers">Customers</a>
         <a href="/users">Users</a>
     </nav>
-    <h1>About Our POS System</h1>
+    <h1>About My POS System</h1>
     <p>This is the about page for my database-backed Laravel POS application.</p>
 </body>
 </html>
